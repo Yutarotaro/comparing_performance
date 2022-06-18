@@ -1,7 +1,7 @@
 #include <chrono>
 #include <iostream>
 
-int main() {
+int main(int argc, char** argv) {
   std::chrono::system_clock::time_point start, end;
 
   start = std::chrono::system_clock::now();
@@ -19,5 +19,6 @@ int main() {
           .count() /
       1000.0);
 
-  std::cout << "total time:" << time << "[s]" << std::endl;
+  std::cout << "On: " << argv[1] << "  total time:" << time << "[s]"
+            << std::endl;
 }
