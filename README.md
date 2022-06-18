@@ -4,7 +4,7 @@
 
 ```bash
 git clone git@github.com:Yutarotaro/comparing_performance.git
-chmod 777 check && ./check
+chmod 777 check.sh && ./check.sh
 ```
 
 ## In my environment
