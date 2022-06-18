@@ -8,4 +8,4 @@ cd comparing_performance && chmod 777 check.sh && ./check.sh
 ```
 
 ## In my environment
-<img width="646" alt="capture" src="https://user-images.githubusercontent.com/53333096/174430008-88c29726-18aa-418c-a415-8f7c53136479.png">
+<img width="652" alt="image" src="https://user-images.githubusercontent.com/53333096/174430568-f4008bd2-a0c5-449d-872d-1d3814b94795.png">
