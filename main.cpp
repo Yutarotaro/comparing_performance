@@ -19,6 +19,6 @@ int main(int argc, char** argv) {
           .count() /
       1000.0);
 
-  std::cout << "On: " << argv[1] << "  total time:" << time << "[s]"
+  std::cout << "On: " << argv[1] << "  total time:" << time << "[ms]"
             << std::endl;
 }
